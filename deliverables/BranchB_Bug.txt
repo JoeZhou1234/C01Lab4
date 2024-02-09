@@ -1,0 +1,7 @@
+backend/server.js:
+- Endpoint /deleteNote/:noteId was not fully implemented. 
+- It does not do anything but simply returns status 500.
+
+frontend/app.js:
+- Formerly used optimistic UI rendering, deleting the note in the web view prior to sending a delete request.
+- This is a problem because the user thinks the note was successfully deleted, regardless of whether the request to deleting the note was successful on the server side.
