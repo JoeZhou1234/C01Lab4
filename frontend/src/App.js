@@ -86,7 +86,6 @@ function App() {
     }
   };
 
-<<<<<<< HEAD
   const onChangeColor = async (noteId, color) => {
     try {
       const response = await fetch(`http://localhost:4000/updateNoteColor/${noteId}`, {
@@ -111,8 +110,6 @@ function App() {
     }
   };
   
-=======
->>>>>>> 8cf1a0c (Fixing bug to delete a single note)
   // -- Dialog functions --
   const editNote = (entry) => {
     setDialogNote(entry);
@@ -166,21 +163,6 @@ function App() {
           <h4 style={AppStyle.text}>The best note-taking app ever </h4>
 
           <div style={AppStyle.notesSection}>
-<<<<<<< HEAD
-            {loading ?
-            <>Loading...</>
-            : 
-            notes ?
-            notes.map((entry) => {
-              return (
-              <div key={entry._id}>
-                <Note
-                entry={entry} 
-                editNote={editNote} 
-                deleteNote={deleteNote}
-                onChangeColor={onChangeColor}
-                />
-=======
             {loading ? (
               <>Loading...</>
             ) : notes ? (
@@ -191,6 +173,7 @@ function App() {
                       entry={entry}
                       editNote={editNote}
                       deleteNote={deleteNote}
+                      onChangeColor={onChangeColor}
                     />
                   </div>
                 );
@@ -198,7 +181,6 @@ function App() {
             ) : (
               <div style={AppStyle.notesError}>
                 Something has gone horribly wrong! We can't get the notes!
->>>>>>> 8cf1a0c (Fixing bug to delete a single note)
               </div>
             )}
           </div>
