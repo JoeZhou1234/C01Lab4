@@ -11,12 +11,12 @@ Clearly and concisely describe the feature.
 
 ## Bug Description
 Clearly describe the bug that was fixed.
-1. [] Fixing a bug in deleting a single note's code
+1. [ ] Fixing a bug in deleting a single note's code
 
 ## Git Commands
 State the git commands used in the feature branches.
-1. [ ] Cherry-pick updates 1 and 2
-2. [ ] Rebase updates 3 & 4, and bugs 1
+1. [ ] Cherry-pick updates
+2. [ ] Rebase updates
 
 ## b) Self-Code Review
 1. [ ] Ensure that completed feature branches have successfully been merged
