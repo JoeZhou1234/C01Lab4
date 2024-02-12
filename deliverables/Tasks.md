@@ -1,7 +1,10 @@
 # Group Member Tasks
 
 ## Xing Yu (Joe) Zhou (Person 1)
-- Completed Person 1 tasks on the Lab 4 Sheet
+- Completed Person 1 tasks on the Lab 4 Sheet:
+  - Created ‘feat/A_ColourCoding’ branch (Branch A) from the 'devel' branch
+  - Developed Colour coding feature for notes
+  - Cherry-Picked first and last commits of Branch B int Branch A
 
 ## Emily Ho (Person 2)
 - 
