@@ -1,9 +1,9 @@
 # Group Member Tasks
 
-## Emily Ho (Person 1)
-- 
+## Xing Yu (Joe) Zhou (Person 1)
+- Completed Person 1 tasks on the Lab 4 Sheet
 
-## Xing Yu (Joe) Zhou (Person 2)
+## Emily Ho (Person 2)
 - 
 
 ## Renat Hossain (Person 3)
