@@ -25,7 +25,7 @@
 
 ## Danny Yang (Person 6)
 - Created pull request for Branch A
-- Created Git Workflow Diagram
+- Helped edit Git Workflow Diagram
 
 ## Kangjie Wu (Person 7)
 - Create pull request for Branch C
