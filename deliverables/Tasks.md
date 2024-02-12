@@ -22,9 +22,9 @@
   - Rebased Branch D onto Branch C, so `Date Added` and `Search` work now and pushed the changes
 
 ## Yron Lance Talban (Person 4)
-- Completed Person 3 tasks on the Lab 4 Sheet:
+- Completed Person 4 tasks on the Lab 4 Sheet:
   - Created `D_InsertDate` branch from `devel`
-  - Completed tasks required for Person 4
+  - Added feature to save and display creation dates to notes. 
 
 ## Michelle Zhu (Person 5)
 - Created pull request template
