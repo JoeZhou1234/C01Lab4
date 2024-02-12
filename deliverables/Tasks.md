@@ -17,7 +17,8 @@
 - Helped on Git Workflow Diagram
 
 ## Yron Lance Talban (Person 4)
-- 
+-   Created `D_InsertDate` branch from `devel`
+-   Completed tasks required for Person 4
 
 ## Michelle Zhu (Person 5)
 - Created pull request template
