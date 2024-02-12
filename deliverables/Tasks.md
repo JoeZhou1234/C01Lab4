@@ -29,6 +29,7 @@
 ## Michelle Zhu (Person 5)
 - Created pull request template
 - Created Git Workflow Diagram
+- Approved and reviewed pull requests
 
 ## Danny Yang (Person 6)
 - Created pull request for Branch A
@@ -37,4 +38,5 @@
 ## Kangjie Wu (Person 7)
 - Create pull request for Branch C
 - Merge Branch C to "devel"
+- Create pull request for devel to main
 
