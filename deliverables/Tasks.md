@@ -7,7 +7,11 @@
   - Cherry-Picked first and last commits of Branch B int Branch A
 
 ## Emily Ho (Person 2)
-- 
+- Created `bugfix/B_Delete` branch from `devel`
+- Identified bugs in server.js and app.js in the backend and frontend folders
+- Changed the color of the notes to orange
+- Wrote a brief reason for the bug in a file called `BranchB_Bug.txt` under the `deliverables` folder
+- Pushed my branch to the remote repo with all 3 commits
 
 ## Renat Hossain (Person 3)
 - Helped setup main and devel branches
