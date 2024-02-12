@@ -25,4 +25,6 @@
 - Created Git Workflow Diagram
 
 ## Kangjie Wu (Person 7)
-- 
+- Create pull request for Branch C
+- Merge Branch C to "devel"
+
